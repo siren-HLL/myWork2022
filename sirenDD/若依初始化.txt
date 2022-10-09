@@ -1,0 +1,21 @@
+（1）ruoyi-admin/src/main/resources/application.yml
+>修改开发环境配置server(如port，contextPath...）
+>redis密码
+
+（2）ruoyi-admin/src/main/resources/application-druid.yml
+>修改数据源信息
+
+（3）ruoyi-ui/vue.config.js
+>修改devServer.proxy：  target的端口配为后端的端口
+
+(4)
+>启动springBoot
+
+（5）ruoyi-ui下
+>初始化
+     npm init
+     npm install --registry=https://registry.npm.taobao.org
+>启动前端
+     npm run dev
+
+
