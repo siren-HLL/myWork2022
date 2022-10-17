@@ -160,7 +160,7 @@ create table sys_menu (
 insert into sys_menu values('1', '系统管理', '0', '3', 'system',           null, '', 1, 0, 'M', '0', '0', '', 'system',   'admin', sysdate(), '', null, '系统管理目录');
 insert into sys_menu values('2', '系统监控', '0', '4', 'monitor',          null, '', 1, 0, 'M', '0', '0', '', 'monitor',  'admin', sysdate(), '', null, '系统监控目录');
 insert into sys_menu values('3', '系统工具', '0', '5', 'tool',             null, '', 1, 0, 'M', '0', '0', '', 'tool',     'admin', sysdate(), '', null, '系统工具目录');
-insert into sys_menu values('4', '若依官网', '0', '6', 'http://ruoyi.vip', null, '', 0, 0, 'M', '0', '0', '', 'guide',    'admin', sysdate(), '', null, '若依官网地址');
+-- insert into sys_menu values('4', '若依官网', '0', '6', 'http://ruoyi.vip', null, '', 0, 0, 'M', '0', '0', '', 'guide',    'admin', sysdate(), '', null, '若依官网地址');
 -- 业务一级菜单(业务的二级菜单路由由tunnel开始）
 -- insert into sys_menu values('5', '基础信息', '0', '0', 'tunnelBase',           null, '', 1, 0, 'M', '0', '0', '', 'tunnel',   'admin', sysdate(), '', null, '基础信息目录');
 -- insert into sys_menu values('6', '监控设备', '0', '1', 'tunnelDevice',           null, '', 1, 0, 'M', '0', '0', '', 'tunnel',   'admin', sysdate(), '', null, '监控设备目录');
