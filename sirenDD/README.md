@@ -2,9 +2,11 @@
 <h4 align="center">基于RuoYi v3.8.3</h4>
 <h4 align="center">基于SpringBoot+Vue前后端分离的Java快速开发框架</h4>
 
-## 系统简介
+# 系统简介
 
 正在开发中的简单管理系统
+
+>后端端口8090，前端端口8091
 
 
 
