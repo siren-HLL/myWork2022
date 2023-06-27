@@ -35,7 +35,7 @@ export default {
   },
   data() {
     return {
-      title: '若依管理系统',
+      title: '杜道服饰管理系统',
       logo: logoImg
     }
   }
